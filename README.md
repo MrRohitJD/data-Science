@@ -1,4 +1,4 @@
-# CWH — Learning Notebooks and Examples
+#   — Learning Notebooks and Examples
 
 This repository is a personal collection of tutorials, Jupyter notebooks, and example scripts covering fundamental data-science and web-development topics.
 
