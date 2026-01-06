@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Rahul", "marks": 89, "school": "Green Valley School" },
+  { "id": 2, "name": "Sneha", "marks": 76, "school": "Sunrise Public School" },
+  { "id": 3, "name": "Arjun", "marks": 92, "school": "Little Flower School" },
+  { "id": 4, "name": "Priya", "marks": 85, "school": "Kendriya Vidyalaya" },
+  { "id": 5, "name": "Varun", "marks": 67, "school": "New Horizon School" },
+  { "id": 6, "name": "Riya", "marks": 90, "school": "Oxford Public School" },
+  { "id": 7, "name": "Manish", "marks": 72, "school": "City Central School" },
+  { "id": 8, "name": "Aditi", "marks": 95, "school": "Delhi Public School" },
+  { "id": 9, "name": "Simran", "marks": 81, "school": "Mount Carmel School" },
+  { "id": 10, "name": "Karan", "marks": 63, "school": "Heritage School" }
+]

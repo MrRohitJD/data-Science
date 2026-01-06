@@ -1,0 +1,76 @@
+{
+  "university": {
+    "id": "UNI-2025-IND",
+    "name": "Ajeenkya DY Patil University",
+    "location": {
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "geo": {
+        "latitude": 18.5185,
+        "longitude": 73.8567
+      }
+    },
+    "established": 2015,
+    "accreditation": ["UGC", "NAAC"],
+    "departments": [
+      {
+        "dept_id": "CS",
+        "name": "Computer Science",
+        "hod": {
+          "name": "Dr. Anil Sharma",
+          "email": "anil.sharma@university.edu"
+        },
+        "programs": [
+          {
+            "program_id": "MCA",
+            "duration_years": 2,
+            "students": [
+              {
+                "student_id": "STU101",
+                "name": "RJ",
+                "age": 22,
+                "skills": ["Java", "Python", "SQL"],
+                "address": {
+                  "street": "MG Road",
+                  "city": "Bangalore",
+                  "pincode": "560001"
+                },
+                "enrolled_subjects": [
+                  {
+                    "code": "OS",
+                    "name": "Operating Systems",
+                    "credits": 4,
+                    "marks": {
+                      "internal": 28,
+                      "external": 55,
+                      "total": 83,
+                      "grade": "A"
+                    }
+                  },
+                  {
+                    "code": "DSA",
+                    "name": "Data Structures",
+                    "credits": 4,
+                    "marks": {
+                      "internal": 25,
+                      "external": 50,
+                      "total": 75,
+                      "grade": "B+"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "generated_by": "Academic Management System",
+    "generated_on": "2025-12-15T18:45:00+05:30",
+    "version": "1.0.0",
+    "is_active": true
+  }
+}

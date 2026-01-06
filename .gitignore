@@ -1,0 +1,37 @@
+# Python virtualenv
+base/
+
+# VSCode settings
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# Model artifacts
+*.pkl
+model.pkl
+pipeline.pkl
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Optional: ignore large data files - enable if you don't want to commit data
+#*.csv
+#*.json
+#data/
